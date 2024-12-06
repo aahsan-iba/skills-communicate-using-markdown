@@ -14,3 +14,8 @@ data = sns.load_dataset("titanic")
 sns.displot(data=data, x="age", hue="pclass", kde=True)
 plt.show()
 ```
+## The following basics are important to learn in GitHub
+- [ ] How to create a branch
+- [ ] How to commit changes
+- [ ] How to merge branches and delete if necessary
+- [ ] How to use markdown 
