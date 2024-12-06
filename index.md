@@ -15,7 +15,9 @@ sns.displot(data=data, x="age", hue="pclass", kde=True)
 plt.show()
 ```
 ## The following basics are important to learn in GitHub
-- [ ] How to create a branch
-- [ ] How to commit changes
-- [ ] How to merge branches and delete if necessary
-- [ ] How to use markdown 
+- [x] How to create a branch
+- [x] How to commit changes
+- [x] How to merge branches and delete if necessary
+- [ ] How to use markdown
+- [ ] This item is not complete
+- [ ] There is more to learn! 
